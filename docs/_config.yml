@@ -29,7 +29,7 @@ linkedin_username: richard-kairis-9048273
 github_username:  RichK4Real
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
